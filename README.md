@@ -8,7 +8,15 @@
 
 ##  About Me
 
-I'm a Computer Science undergraduate at **Vellore Institute of Technology (VIT)** passionate about building **AI-powered applications, scalable full-stack systems, and clean user experiences**.
+I build AI-powered and full-stack systems where usability, scalability, and reliability matter.
+
+My interests lie in software engineering, AI-powered applications, full-stack development, databases, cloud technologies, and problem solving. I enjoy turning ideas into practical products — from intelligent finance platforms and healthcare systems to rental intelligence and fraud detection solutions.
+
+Most of my projects revolve around one question:
+'''
+How can technology make a complex problem simpler, faster, and more reliable?
+'''
+That mindset naturally leads me toward clean architecture, efficient databases, thoughtful APIs, scalable systems, and measurable improvements.
 
 -  B.Tech Computer Science & Engineering @ VIT
 -  CGPA: **8.62**
