@@ -22,11 +22,11 @@ I'm a Computer Science undergraduate at **Vellore Institute of Technology (VIT)*
 
 ##  What I Build
 
- AI-Powered Applications
- Full-Stack Web Applications
- Data-Driven Systems
- Cloud-Based Solutions
- FinTech & Student-Focused Products
+-AI-Powered Applications
+-Full-Stack Web Applications
+-Data-Driven Systems
+-Cloud-Based Solutions
+-FinTech & Student-Focused Products
 
  **Tech Stack**
 **Languages**
@@ -55,11 +55,11 @@ An AI-powered finance platform designed to simplify personal expense tracking an
 
 **Highlights**
 
- OCR receipt scanning, reducing manual expense entry by 80%
- Built 15+ reusable React components for budgeting, transactions, and savings
- PostgreSQL database with 6+ entities and Row-Level Security (RLS)
- Integrated Tesseract.js OCR, AI spending predictions, offline sync, and chatbot
- Improved transaction capture by 60%
+-OCR receipt scanning, reducing manual expense entry by 80%
+-Built 15+ reusable React components for budgeting, transactions, and savings
+-PostgreSQL database with 6+ entities and Row-Level Security (RLS)
+-Integrated Tesseract.js OCR, AI spending predictions, offline sync, and chatbot
+-Improved transaction capture by 60%
 
 **Tech Stack**
 
@@ -70,15 +70,16 @@ React.js Vite Tailwind CSS Supabase PostgreSQL Tesseract.js AI
 **Nirantar Health Card — Healthcare Management Platform**
 
 A full-stack healthcare platform for managing patients, appointments, laboratory records, and secure medical record sharing.
+
 **Highlights**
 
- Built with React, Node.js, and PostgreSQL
- Developed 12+ responsive React components
- Implemented 55+ REST APIs for patient, appointment, and lab management
- Optimized PostgreSQL schema with 6+ entities and strategic indexing
- Implemented QR-based record sharing with JWT authorization
- Supported secure access across 4 user roles
- Eliminated 100% of duplicate booking errors
+-Built with React, Node.js, and PostgreSQL
+-Developed 12+ responsive React components
+-Implemented 55+ REST APIs for patient, appointment, and lab management
+-Optimized PostgreSQL schema with 6+ entities and strategic indexing
+-Implemented QR-based record sharing with JWT authorization
+-Supported secure access across 4 user roles
+-Eliminated 100% of duplicate booking errors
 
 **Tech Stack**
 
@@ -89,13 +90,14 @@ React.js Node.js Express.js PostgreSQL REST APIs JWT
 **Rent Relief Navigator - AI Rental Intelligence Platform**
 
 An AI-powered rental intelligence platform designed to simplify property evaluation, detect rental scams, and uncover hidden rental costs.
+
 **Highlights**
 
- Reduced property evaluation time from 10–15 hours to less than 10 seconds
- Built a rental scam detection system targeting fraud losses of ₹35,000–₹3.5 lakh per victim
- Developed a cost analysis engine identifying 30–50% of hidden rental expenses
- Designed to scale from 4 metro cities to 50+ cities
- Targeting ₹50,000+ crore in annual rental fraud prevention
+-Reduced property evaluation time from 10–15 hours to less than 10 seconds
+-Built a rental scam detection system targeting fraud losses of ₹35,000–₹3.5 lakh per victim
+-Developed a cost analysis engine identifying 30–50% of hidden rental expenses
+-Designed to scale from 4 metro cities to 50+ cities
+-Targeting ₹50,000+ crore in annual rental fraud prevention
 
 **Tech Stack**
 
@@ -111,9 +113,6 @@ React.js AI JavaScript REST APIs Data Analysis
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Ariha1510&theme=tokyonight&hide_border=true" /> </p>
 ---
 
-##  LeetCode
-
-<p align="center"> <img src="https://leetcard.jacoblin.cool/maxCoder-15?theme=dark&font=Karma" /> </p>
 
 ## 📄 Resume
 
@@ -124,7 +123,5 @@ React.js AI JavaScript REST APIs Data Analysis
 ##  Connect With Me
 
 <p align="center"> <a href="https://arihashree-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ariha-shree-5505b9335/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Ariha1510"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/u/maxCoder-15/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
-
----
 
 <p align="center"> <i>Building ideas into impactful software </i> </p>
