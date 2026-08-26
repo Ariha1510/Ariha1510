@@ -1,18 +1,8 @@
-# Hi, I'm Ariha Shree
+<h1 align="center">Hi, I'm Ariha Shree</h1>
 
-### Software Engineer • AI Developer • Full-Stack Developer
+<h3 align="center"> Software Engineer • AI Developer • Full-Stack Developer </h3>
 
-<p align="left">
-  <a href="https://arihashree-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ariha-shree-5505b9335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/maxCoder-15/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://arihashree-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ariha-shree-5505b9335/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/maxCoder-15/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
 
 ---
 
@@ -39,37 +29,26 @@ I'm a Computer Science undergraduate at **Vellore Institute of Technology (VIT)*
  FinTech & Student-Focused Products
 
  **Tech Stack**
-### Languages
+**Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,cpp,python,c" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,js,html,css,cpp,python,c" /> </p>
 
-### Frontend
+**Frontend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,vite,tailwind" /> </p>
 
-### Backend & Database
+**Backend & Database**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase" /> </p>
 
-### Tools & Cloud
+**Tools & Cloud**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,netlify" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,aws,netlify" /> </p>
 
 ## Featured Projects
 
-```html
- <p align="center">
-  <img src="./logo.png.png" width="120" />
-</p>
-```
+<p align="center"> <img src="./logo.png" width="120" /> </p>
+
  **CASHLENS — AI-Powered Finance Platform**
 
 An AI-powered finance platform designed to simplify personal expense tracking and help users make smarter financial decisions.
@@ -86,12 +65,9 @@ An AI-powered finance platform designed to simplify personal expense tracking an
 
 React.js Vite Tailwind CSS Supabase PostgreSQL Tesseract.js AI
 
-```html
-<p align="center">
-  <img src="./logo.png" width="120" />
-</p>
-```
-**** Nirantar Health Card — Healthcare Management Platform****
+<p align="center"> <img src="./logo.png" width="120" /> </p>
+
+**Nirantar Health Card — Healthcare Management Platform**
 
 A full-stack healthcare platform for managing patients, appointments, laboratory records, and secure medical record sharing.
 **Highlights**
@@ -107,12 +83,10 @@ A full-stack healthcare platform for managing patients, appointments, laboratory
 **Tech Stack**
 
 React.js Node.js Express.js PostgreSQL REST APIs JWT
-```html
- <p align="center">
-  <img src="./rent-relief-navigator.png" width="120" />
-</p>
-```
-** Rent Relief Navigator — AI Rental Intelligence Platform**
+
+<p align="center"> <img src="./rent-relief-navigator.png" width="120" /> </p>
+
+**Rent Relief Navigator - AI Rental Intelligence Platform**
 
 An AI-powered rental intelligence platform designed to simplify property evaluation, detect rental scams, and uncover hidden rental costs.
 **Highlights**
@@ -129,60 +103,28 @@ React.js AI JavaScript REST APIs Data Analysis
 
 ##  GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariha1510&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariha1510&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ariha1510&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariha1510&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
 ---
 
 ##  GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ariha1510&theme=tokyonight&hide_border=true" />
-</p>
-
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Ariha1510&theme=tokyonight&hide_border=true" /> </p>
 ---
 
 ##  LeetCode
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/maxCoder-15?theme=dark&font=Karma" />
-</p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/maxCoder-15?theme=dark&font=Karma" /> </p>
 
 ## 📄 Resume
 
-<p align="left">
-  <a href="https://docs.google.com/document/d/1l0Dv4USt5-DEeX49aB1iZ-H1w06sg3U8eyPTytorCQA/edit?tab=t.0">
-    <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://docs.google.com/document/d/1l0Dv4USt5-DEeX49aB1iZ-H1w06sg3U8eyPTytorCQA/edit?tab=t.0"> <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" /> </a> </p>
 
 ---
 
 ##  Connect With Me
 
-<p align="left">
-  <a href="https://arihashree-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ariha-shree-5505b9335/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Ariha1510">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/maxCoder-15/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://arihashree-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ariha-shree-5505b9335/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Ariha1510"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/u/maxCoder-15/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
 
 ---
 
-<p align="center">
-  <i>Building ideas into impactful software </i>
-</p>
-:::
+<p align="center"> <i>Building ideas into impactful software </i> </p>
