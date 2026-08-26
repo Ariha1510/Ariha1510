@@ -22,11 +22,11 @@ I'm a Computer Science undergraduate at **Vellore Institute of Technology (VIT)*
 
 ##  What I Build
 
--AI-Powered Applications
--Full-Stack Web Applications
--Data-Driven Systems
--Cloud-Based Solutions
--FinTech & Student-Focused Products
+-  AI-Powered Applications
+-  Full-Stack Web Applications
+-  Data-Driven Systems
+-  Cloud-Based Solutions
+-  FinTech & Student-Focused Products
 
  **Tech Stack**
 **Languages**
@@ -55,15 +55,19 @@ An AI-powered finance platform designed to simplify personal expense tracking an
 
 **Highlights**
 
--OCR receipt scanning, reducing manual expense entry by 80%
--Built 15+ reusable React components for budgeting, transactions, and savings
--PostgreSQL database with 6+ entities and Row-Level Security (RLS)
--Integrated Tesseract.js OCR, AI spending predictions, offline sync, and chatbot
--Improved transaction capture by 60%
+- OCR receipt scanning, reducing manual expense entry by 80%
+- Built 15+ reusable React components for budgeting, transactions, and savings
+- PostgreSQL database with 6+ entities and Row-Level Security (RLS)
+- Integrated Tesseract.js OCR, AI spending predictions, offline sync, and chatbot
+- Improved transaction capture by 60%
 
 **Tech Stack**
 
-React.js Vite Tailwind CSS Supabase PostgreSQL Tesseract.js AI
+- React.js
+- Vite
+- Tailwind CSS
+- Supabase PostgreSQL
+- Tesseract.js AI
 
 <p align="center"> <img src="./logo.png" width="120" /> </p>
 
@@ -73,17 +77,22 @@ A full-stack healthcare platform for managing patients, appointments, laboratory
 
 **Highlights**
 
--Built with React, Node.js, and PostgreSQL
--Developed 12+ responsive React components
--Implemented 55+ REST APIs for patient, appointment, and lab management
--Optimized PostgreSQL schema with 6+ entities and strategic indexing
--Implemented QR-based record sharing with JWT authorization
--Supported secure access across 4 user roles
--Eliminated 100% of duplicate booking errors
+- Built with React, Node.js, and PostgreSQL
+- Developed 12+ responsive React components
+- Implemented 55+ REST APIs for patient, appointment, and lab management
+- Optimized PostgreSQL schema with 6+ entities and strategic indexing
+- Implemented QR-based record sharing with JWT authorization
+- Supported secure access across 4 user roles
+- Eliminated 100% of duplicate booking errors
 
 **Tech Stack**
 
-React.js Node.js Express.js PostgreSQL REST APIs JWT
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- REST APIs
+- JWT
 
 <p align="center"> <img src="./rent-relief-navigator.png" width="120" /> </p>
 
@@ -93,26 +102,19 @@ An AI-powered rental intelligence platform designed to simplify property evaluat
 
 **Highlights**
 
--Reduced property evaluation time from 10–15 hours to less than 10 seconds
--Built a rental scam detection system targeting fraud losses of ₹35,000–₹3.5 lakh per victim
--Developed a cost analysis engine identifying 30–50% of hidden rental expenses
--Designed to scale from 4 metro cities to 50+ cities
--Targeting ₹50,000+ crore in annual rental fraud prevention
+- Reduced property evaluation time from 10–15 hours to less than 10 seconds
+- Built a rental scam detection system targeting fraud losses of ₹35,000–₹3.5 lakh per victim
+- Developed a cost analysis engine identifying 30–50% of hidden rental expenses
+- Designed to scale from 4 metro cities to 50+ cities
+- Targeting ₹50,000+ crore in annual rental fraud prevention
 
 **Tech Stack**
 
-React.js AI JavaScript REST APIs Data Analysis
-
-##  GitHub Analytics
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ariha1510&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariha1510&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
----
-
-##  GitHub Streak
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Ariha1510&theme=tokyonight&hide_border=true" /> </p>
----
-
+- React.js
+- AI
+- JavaScript
+- REST APIs
+- Data Analysis
 
 ## 📄 Resume
 
