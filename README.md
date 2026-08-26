@@ -47,9 +47,10 @@ I'm a Computer Science undergraduate at **Vellore Institute of Technology (VIT)*
 
 ## Featured Projects
 
-<p align="center"> <img src="./logo.png" width="120" /> </p>
-
- **CASHLENS — AI-Powered Finance Platform**
+<h3>
+   CASHLENS — AI-Powered Finance Platform
+  <img src="./logo.png.png" width="40" />
+</h3>
 
 An AI-powered finance platform designed to simplify personal expense tracking and help users make smarter financial decisions.
 
@@ -69,9 +70,11 @@ An AI-powered finance platform designed to simplify personal expense tracking an
 - Supabase PostgreSQL
 - Tesseract.js AI
 
-<p align="center"> <img src="./logo.png" width="120" /> </p>
+<h3>
+   Nirantar Health Card- Healthcare Management Platform
+  <img src="./nirantar.png" width="35" align="center" />
+</h3>
 
-**Nirantar Health Card — Healthcare Management Platform**
 
 A full-stack healthcare platform for managing patients, appointments, laboratory records, and secure medical record sharing.
 
@@ -94,9 +97,11 @@ A full-stack healthcare platform for managing patients, appointments, laboratory
 - REST APIs
 - JWT
 
-<p align="center"> <img src="./rent-relief-navigator.png" width="120" /> </p>
+<h3>
+  Rent Relief Navingator- AI Rental Intelligence Platform
+  <img src="./rent-relief-navigator.png" width="35" align="center" />
+</h3>
 
-**Rent Relief Navigator - AI Rental Intelligence Platform**
 
 An AI-powered rental intelligence platform designed to simplify property evaluation, detect rental scams, and uncover hidden rental costs.
 
@@ -116,7 +121,7 @@ An AI-powered rental intelligence platform designed to simplify property evaluat
 - REST APIs
 - Data Analysis
 
-## 📄 Resume
+##  Resume
 
 <p align="center"> <a href="https://docs.google.com/document/d/1l0Dv4USt5-DEeX49aB1iZ-H1w06sg3U8eyPTytorCQA/edit?tab=t.0"> <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" /> </a> </p>
 
