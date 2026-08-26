@@ -72,7 +72,7 @@ An AI-powered finance platform designed to simplify personal expense tracking an
 
 <h3>
    Nirantar Health Card- Healthcare Management Platform
-  <img src="./nirantar.png" width="35" align="center" />
+  <img src="./logo.png" width="35" align="center" />
 </h3>
 
 
