@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Ariha Shree</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Turning+Ideas+Into+AI-Powered+Products;Generating+Full+Stack+Applications;Creating+Scalable+Software;Performing+Intelligent+Solutions;Aiming+at+Beautiful+user+Experiences;Targeting+Real+World+Impact)](https://git.io/typing-svg)
+
 <h3 align="center"> Software Engineer • AI Developer • Full-Stack Developer </h3>
 
 <p align="center"> <a href="https://arihashree-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ariha-shree-5505b9335/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/maxCoder-15/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> </p>
